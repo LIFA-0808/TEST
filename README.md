@@ -1,6 +1,7 @@
 TEST
 [Одна страница](#Одна-страница)
 #### страница
+![picture](#https://ru.wikipedia.org/wiki/.md#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Dotmd.png)
 #### страница
 #### страница
 #### страница
